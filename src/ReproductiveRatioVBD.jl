@@ -1,5 +1,5 @@
 module ReproductiveRatioVBD
 
-greet() = print("Hello World!")
+include("types.jl")
 
-end # module
+end
